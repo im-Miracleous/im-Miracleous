@@ -22,16 +22,10 @@
 <br>
 
 #### 📊 GitHub Stats:
-![Miracle's Github Stats](https://github-readme-stats.vercel.app/api?username=im-miracleous&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=im-miracleous&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=im-miracleous&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=im-miracleous&theme=gruvbox&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=im-miracleous&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=im-miracleous&theme=gruvbox&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
-
-##### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=im-miracleous&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-##### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=im-miracleous&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
